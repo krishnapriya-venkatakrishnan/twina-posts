@@ -1,6 +1,6 @@
-# Twimba - Twitter-like Web Application
+# Twina - Web Application
 
-Twimba is a simple web application that allows users to post tweets, reply to tweets, and interact with tweets by liking or retweeting them. The current user is considered to be `@Krishna`, and the other users' tweets and replies are imported from a `data.js` file. This project utilizes local storage to persist data across sessions.
+Twina is a simple web application that allows users to post tweets, reply to tweets, and interact with tweets by liking or retweeting them. The current user is considered to be `@Krishna`, and the other users' tweets and replies are imported from a `data.js` file. This project utilizes local storage to persist data across sessions.
 
 ## Features
 
